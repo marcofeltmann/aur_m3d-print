@@ -1,1 +1,0 @@
-#!/bin/sh\nmono /opt/M3D.App/M3DGUI 2>&1 1>/dev/null &

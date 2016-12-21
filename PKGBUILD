@@ -1,6 +1,4 @@
-# Maintainer: Tim Kleinschmidt <tim.kleinschmidt@gmail.com>
-# Contributor: Marcin Wieczorek <marcin@marcin.co>
-# Contributor: Jean-Pier Brochu <jeanpier.brochu@gmail.com>
+# Maintainer: Marco Feltmann <coding@marcofeltmann.de>
 
 pkgname=m3d-print
 pkgrel=1
@@ -31,4 +29,6 @@ package() {
     install -d "$pkgdir"/usr/bin
     echo "#!/bin/sh\nmono /opt/M3D.App/M3DGUI 2>&1 1>/dev/null &" > "$pkgdir"/usr/bin/m3d-print
     chmod 755 "$pkgdir"/usr/bin/m3d-print
+
+    echo "If this is your first installation of the app or M3D plese refer to the readme at /opt/M3D.App/README.pdf for system setup instructions."
 }
