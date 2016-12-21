@@ -26,7 +26,7 @@ md5sums=(
 package() {
     install -d "$pkgdir"/opt
     cp -R "$srcdir"/M3D.App "$pkgdir"/opt/M3D.App
-    cp -R "$srcdir/README-$pkgver.pdf" "$pkgdir"/opt/README.pdf
+    cp -R "$srcdir/README-$pkgver.pdf" "$pkgdir"/opt/M3D.App/README.pdf
 
     install -d "$pkgdir"/usr/bin
     echo "#!/bin/sh\nmono /opt/M3D.App/M3DGUI 2>&1 1>/dev/null &" > "$pkgdir"/usr/bin/m3d-print

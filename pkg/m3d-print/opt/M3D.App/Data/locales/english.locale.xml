@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Locale language="English" font="NotoSans-Regular" file="NotoSans-Regular.ttf">
+	<characterset></characterset>
+	<T key="T_HELP" text=" Visit the M3D Support Website " />
+	<T key="T_RECENT_MODELS" text="Recent Models" />
+	<T key="T_MY_LIBRARY" text="My Library" />
+	<T key="T_ONLINE_LIBRARY" text="Online Library" />
+	<T key="T_SETTINGS" text="Settings" />
+	<T key="T_DRAG_FILE_INTO_PRINTER" text="Drag your file into printer" />
+	<T key="T_LANGUAGES" text="Languages" />
+	<T key="T_SEARCH" text="Search" />
+	<T key="T_NOMODELS" text="No models to display" />
+        <T key="T_FIRMWARE_UPDATE_REQUIRED" text="Your printer's firmware must be updated before you can continue." />
+        <T key="T_FIRMWARE_UPDATE_COMPLETE" text="Your printer has been updated. You're ready to go." />
+	<T key="T_TOOLTIP_MANAGEFILAMENT" text=" Select this for filament options " />
+	<T key="T_TOOLTIP_SETTINGS" text=" All printer, appearance...etc settings are accessed here " />
+	<T key="T_TOOLTIP_ADVANCEDSETTINGSWARNING" text=" Only modify these settings if you're an experienced user " />
+	<T key="T_TOOLTIP_OPENFILE" text=" Opens a model for printing " />
+	<T key="T_TOOLTIP_MULTIPRINTER" text=" Multi-printer options " />
+	<T key="T_TOOLTIP_INFORMATION" text=" Shows printing process status messages " />
+	<T key="T_TOOLTIP_RESETVIEW" text=" Resets the view to the front \n of the printer " />
+	<T key="T_TOOLTIP_PRINT" text=" Sends the object \n to the printer " />
+	<T key="T_TOOLTIP_CENTERMODEL" text=" Centers the model within \n the printer " />
+        <T key="T_CYCLE_POWER" text="Please cycle power on the printer by disconnecting and then reconnecting it to power." />
+
+	<T key="T_TOOLTIP_BACKTOLIBRARY" text=" Returns the view to the object library " />
+
+	<T key="T_TOOLTIP_TRANSLATE" text=" For moving the object \n on the floor of the printer " />
+	<T key="T_TOOLTIP_SCALE" text=" For resizing the object " />
+	<T key="T_TOOLTIP_ROTATE" text=" For rotating the object " />
+
+	<T key="T_TOOLTIP_SEARCH" text=" Search the library for objects " />
+
+	<T key="T_TOOLTIP_TEXTWIDGET" text=" Text widget tooltip using english.locale " />
+
+	<T key="T_HINT_EDITBOXWIDGET" text=" english.locale hint " />
+
+	<T key="T_HINT_COMBOBOXWIDGET" text=" english combobox hint " />
+
+
+	<T key="T_PRINTQUALITY1" text="High Quality" />
+	<T key="T_PRINTQUALITY2" text="Medium Quality" />
+	<T key="T_PRINTQUALITY3" text="Fast Print" />
+	<T key="T_PRINTQUALITY4" text="Very Fast Print" />
+	<T key="T_PRINTQUALITY5" text="Expert" />
+	<T key="T_PRINTQUALITY6" text="Very High Quality" />
+
+	<T key="T_FILLDENSITY1" text="Extra High (Slower)" />
+	<T key="T_FILLDENSITY2" text="High" />
+	<T key="T_FILLDENSITY3" text="Medium (Fast)" />
+	<T key="T_FILLDENSITY4" text="Low (Faster)" />
+	<T key="T_FILLDENSITY5" text="Hollow Thick Walls (Very Fast)" />
+	<T key="T_FILLDENSITY6" text="Hollow Thin Walls (Extremely Fast)" />
+	<T key="T_FILLDENSITY7" text="Solid (Slowest)" />
+  
+
+	<T key="T_TOOLTIP_PRINTQUALITY1" text=" 200 Microns " />
+	<T key="T_TOOLTIP_PRINTQUALITY2" text=" 250 Microns " />
+	<T key="T_TOOLTIP_PRINTQUALITY3" text=" 300 Microns " />
+	<T key="T_TOOLTIP_PRINTQUALITY4" text=" 350 Microns " />
+	<T key="T_TOOLTIP_PRINTQUALITY5" text=" 50 Microns " />
+	<T key="T_TOOLTIP_PRINTQUALITY6" text=" 150 Microns " />
+
+	<T key="T_TOOLTIP_FILLDENSITY1" text=" Extra High (Slower) " />
+	<T key="T_TOOLTIP_FILLDENSITY2" text=" High " />
+	<T key="T_TOOLTIP_FILLDENSITY3" text=" Medium (Fast) " />
+	<T key="T_TOOLTIP_FILLDENSITY4" text=" Low (Faster) " />
+	<T key="T_TOOLTIP_FILLDENSITY5" text=" Hollow Thick Walls (Very Fast) " />
+	<T key="T_TOOLTIP_FILLDENSITY6" text=" Hollow Thin Walls (Extremely Fast) " />
+	<T key="T_TOOLTIP_FILLDENSITY7" text=" Solid (Slowest) " />
+
+</Locale>
