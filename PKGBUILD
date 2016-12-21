@@ -30,5 +30,5 @@ package() {
     echo "#!/bin/sh\nmono /opt/M3D.App/M3DGUI 2>&1 1>/dev/null &" > "$pkgdir"/usr/bin/m3d-print
     chmod 755 "$pkgdir"/usr/bin/m3d-print
 
-    echo "If this is your first installation of the app or M3D plese refer to the readme at /opt/M3D.App/README.pdf for system setup instructions."
+    echo "If this is your first installation of the app or the M3D on this computer please refer to the readme at /opt/M3D.App/README.pdf for system setup instructions."
 }
