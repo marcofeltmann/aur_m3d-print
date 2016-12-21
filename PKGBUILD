@@ -18,8 +18,10 @@ source=(
     "https://printm3d.com/files/software/linux/M3D-Linux-${pkgver}.tar.gz"
     "https://printm3d.com/files/software/linux/README-${pkgver}.pdf"
 )
-md5sums=('b0b9537726ed30b00e167a1350ba6566'
-'96534c381c9e4cafca48cbf4a73d93eb')
+md5sums=(
+	'b0b9537726ed30b00e167a1350ba6566'
+	'9ae06dff9bb2865841f9d5cac39fddc2'
+)
 
 package() {
     install -d "$pkgdir"/opt
